@@ -1,0 +1,44 @@
+body {
+  background-color: #f8f9fa;
+  font-family: Arial, sans-serif;
+}
+
+.navbar-brand {
+  font-weight: bold;
+}
+
+.top-section {
+  background: linear-gradient(135deg, #6f42c1, #4b2ca3);
+  height: 60vh;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.card-title {
+  font-weight: bold;
+}
+
+.btn-primary {
+  background-color: #6f42c1;
+  border: none;
+}
+
+.btn-primary:hover {
+  background-color: #59339d;
+}
+
+.btn-outline-primary {
+  color: #6f42c1;
+  border-color: #6f42c1;
+}
+
+.btn-outline-primary:hover {
+  background-color: #6f42c1;
+  color: white;
+}
+
+footer {
+  font-size: 14px;
+}
